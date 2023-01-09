@@ -35,9 +35,9 @@
   ## 🙋‍♂️ Connect With Me
 <p align="left">
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&lines=I+am+Krishna+Kumar+Shakya+!;A+Fullstack+Web+Developer+!;let+'+s+get+connected++on+LinkedIn" > 
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&lines=I+am+Sumit+Shastrakar+!;A+Fullstack+Web+Developer+!;let+'+s+get+connected++on+LinkedIn" > 
 </p>
-<a href="https://linkedin.com/in/krishnashakya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sumitss" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sumit-shastrakar-ba6977246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sumitss" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/codinglaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codinglaw" height="30" width="40" /></a>
 </p>
 <hr/>
