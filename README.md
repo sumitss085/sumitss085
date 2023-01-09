@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Krishna Kumar Shakya</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Sumit Shastrakar</h1>
 <img src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" alt="javascript" width="100%" height="500px"/>
 
 <br/>
@@ -16,19 +16,19 @@
 
   ## 🙋‍♂️ About Me
   
-- 🔭 I’m currently working on **BeYoung {Ecommerce}**
+- 🔭 I’m currently working on **HomeCenter {Ecommerce}**
 
 - 🌱 I’m currently learning **React, Redux,NextJS**
 
-- 👨‍💻 All of my projects are available at [Click Me!](https://github.com/KKShakya?tab=repositories)
+- 👨‍💻 All of my projects are available at [Click Me!](https://github.com/sumitss085?tab=repositories)
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS**
 
-- 📫 How to reach me **krishnashakya7272@gmail.com**
+- 📫 How to reach me **sumitshashtrakar@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1s-R92_-qT7yQlM0i9dKE6cdqGhuCd022/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1i6ZFz_phn8VofKzIw7uWjPOPU0Nz-3vi/view?usp=share_link)
 
-- 📄 PortFolio [Click Me!](https://kkshakya.github.io/)
+- 📄 PortFolio [Click Me!](https://sumitss085.github.io/)
 <hr/>
 
 
@@ -37,7 +37,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&lines=I+am+Krishna+Kumar+Shakya+!;A+Fullstack+Web+Developer+!;let+'+s+get+connected++on+LinkedIn" > 
 </p>
-<a href="https://linkedin.com/in/krishnashakya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishnashakya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/krishnashakya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sumitss" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/codinglaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codinglaw" height="30" width="40" /></a>
 </p>
 <hr/>
@@ -55,11 +55,11 @@
 
  <h2> 📊 Github Stats ....</h2>
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KKShakya&theme=github">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KKShakya&theme=github">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KKShakya&theme=github">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KKShakya&theme=github">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KKShakya&theme=github&utcOffset=8">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumitss085&theme=github">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumitss085&theme=github">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumitss085&theme=github">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumitss085&theme=github">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumitss085&theme=github&utcOffset=8">
 	
 </p>
 <hr/>
@@ -67,11 +67,11 @@
 
 	
 <p align="center" style="margin-right:0px;padding-right:0px;display:flex;gap:40px">
-<img src="https://github-readme-stats.vercel.app/api?username=KKShakya">
-<img src="https://streak-stats.demolab.com?user=KKShakya&border_radius=5" alt="kkshakya" />
+<img src="https://github-readme-stats.vercel.app/api?username=sumitss085">
+<img src="https://streak-stats.demolab.com?user=sumitss085&border_radius=5" alt="kkshakya" />
 </p>
 	
 <hr/>
 <br/>
 
-<p><img alt="Pallavi Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=KKShakya&theme=github&hide_border=true" /></p>
+<p><img alt="Pallavi Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=sumitss085&theme=github&hide_border=true" /></p>
