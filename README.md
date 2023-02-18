@@ -38,7 +38,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&lines=I+am+Sumit+Shastrakar+!;A+Fullstack+Web+Developer+!;let+'+s+get+connected++on+LinkedIn" > 
 </p>
 <a href="https://www.linkedin.com/in/sumit-shastrakar-ba6977246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sumitss" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/codinglaw" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/768px-Twitter-logo.svg.png" alt="codinglaw" height="30" width="40" /></a>
+<a href="https://twitter.com/S_shastrakar" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/768px-Twitter-logo.svg.png" alt="codinglaw" height="30" width="40" /></a>
 </p>
 <hr/>
 
