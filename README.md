@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **sumitshashtrakar@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1i6ZFz_phn8VofKzIw7uWjPOPU0Nz-3vi/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RvEK2gI3lJsx563DWLSwZGm4cIcUEhmn/view?usp=share_link)
 
 - 📄 PortFolio [Click Me!](https://sumitss085.github.io/)
 <hr/>
