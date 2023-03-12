@@ -30,7 +30,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Dev.**
  
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Lu01nMX_NF_A_A3iDpArPnqnI4qjxhC2/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RvEK2gI3lJsx563DWLSwZGm4cIcUEhmn/view?usp=share_link)
 
 - 👨‍💻 All of my projects are available at Github and [Portfolio](https://sumitss085.github.io/)
 
