@@ -17,7 +17,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitss085&label=Profile%20views&color=0e75b6&style=flat" alt="sumitss085" /> </p>
 
 
-<p align="left"> <a href="https://www.linkedin.com/in/sumit-shastrakar-ba6977246/" target="blank"><img src="https://img.shields.io/twitter/follow/GoteShivam?logo=linkedin&style=for-the-badge" alt="shivamGote" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/sumit-shastrakar-ba6977246/" target="blank"><img src="https://img.shields.io/twitter/follow/@S_shastrakar?logo=linkedin&style=for-the-badge" alt="sumitss" /></a> </p>
 
 
 ## :sassy_man:  About me
